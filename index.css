@@ -5,6 +5,7 @@
 
 body{
     color:#444349;
+    background:url("https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png") repeat center;
 }
 
 /* HEADER SECTION*/
@@ -90,7 +91,6 @@ body{
 /* LOCATIONS SECTION */
 
 .locations-background{
-    background:url("https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png") repeat;
     width:100%;
 }
 
@@ -156,7 +156,7 @@ body{
   /* PROGRAM SECTION */
 
 .program-container{
-    background-color:#606060;
+    background-color:hsla(100,0%,0%,.6);
     width:100%;
     color:#d2ba87;
     padding:0 0 2rem 0;
@@ -195,7 +195,6 @@ body{
 
 .gifts-container{
     text-align:center;
-    background:url("https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png") repeat;
     width:100%;
     padding:0 0 2rem 0;
 }
@@ -221,7 +220,7 @@ body{
 /*FAQ SECTION */
 
 .faq-container{
-    background-color:#606060;
+    background-color:hsla(100,0%,0%,.6);;
     width:100%;
     color:#d2ba87;
     padding:0 0 1rem 0;
