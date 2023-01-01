@@ -3,6 +3,9 @@
 
   }
 
+  /**
+   * Ide jön a komment.
+   */
 body{
     color:#444349;
     background:url("https://orange.codeberryschool.com/content/images/project-assets/wedding-landing-background.png") repeat center;
@@ -131,8 +134,8 @@ body{
 }
 
 .locations-line{
-    border-bottom:3px solid #000;
-    width:6rem;
+    border-bottom: 3px solid #000;
+    width: 6rem;
     margin:0 auto;
     margin-top:1.5rem;
     margin-bottom:1.5rem;
@@ -220,7 +223,7 @@ body{
 /*FAQ SECTION */
 
 .faq-container{
-    background-color:hsla(100,0%,0%,.6);;
+    background-color:hsla(100,0%,0%,.6);
     width:100%;
     color:#d2ba87;
     padding:0 0 1rem 0;
